@@ -4,6 +4,10 @@
 
 This repository contains the official brand assets for coderaveHQ.
 
+## Fonts
+
+- [Inter](https://fonts.google.com/specimen/Inter)
+
 ## Colors
 
 ### Neutral
